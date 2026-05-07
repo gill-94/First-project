@@ -70,3 +70,33 @@ a{
   flex-direction: column;
   align-items: flex-start;
 }
+
+/* PART TWO CONENT */
+
+.hero-txt{
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+  text-align: center;
+  margin: 35px;
+}
+
+.div{
+  height: 165px;
+  width: 165px;
+  border: 3px solid #3882f6;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+li{
+  display: block;
+  max-width: 165px;
+  text-align: center;
+}
+.ul2{
+  display: flex;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
