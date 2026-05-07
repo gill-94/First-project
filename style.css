@@ -85,7 +85,7 @@ a{
   height: 165px;
   width: 165px;
   border: 3px solid #3882f6;
-  border-radius: 8px;
+  border-radius: 14px;
   margin-bottom: 8px;
 }
 li{
@@ -99,4 +99,25 @@ li{
   justify-content: center;
   align-items: center;
   gap: 40px;
+}
+
+.part3{
+  background: #e5e7eb;
+  height: 350px;
+}
+
+.p2{
+  width: 750px;
+  margin: 0 auto;
+  font-size: 36px ;
+  color: #1f2937;
+  font-weight: 300; 
+  padding: 60px;
+}
+
+#p2{
+  text-align: right;
+  padding: 0;
+  font-weight: bold;
+  font-size: 24px;
 }
