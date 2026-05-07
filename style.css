@@ -104,6 +104,7 @@ li{
 .part3{
   background: #e5e7eb;
   height: 350px;
+  margin-bottom: 50px;
 }
 
 .p2{
@@ -120,4 +121,47 @@ li{
   padding: 0;
   font-weight: bold;
   font-size: 24px;
+}
+
+.cta{
+  background: #3882f6;
+  color: #eee;
+  width: 950px;
+  margin: 0 auto;
+  padding: 15px 30px;
+  border-radius: 15px;
+}
+.btun{
+  background: transparent;
+  color: white;
+
+  border: 3px solid white;
+  border-radius: 10px;
+
+  padding: 12px 35px;
+
+  font-size: 18px;
+  font-weight: bold;
+}
+.ctaa{
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 135px;
+  margin-bottom: 0;
+}
+
+.btnn{
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  font-size: 18px;
+  margin-top: 0;
+}
+
+.foot{
+  background:#1F2937 ;
+  text-align: center;
+  color: white;
+  margin-top: 50px;
+  padding: 30px;
 }
